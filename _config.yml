@@ -1,0 +1,28 @@
+name: Prismline
+favicon: null
+layout_spectrum: 0.4083411577157676
+typography_spectrum: 0.44675840018317103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.957619400229305
+  lightness: 0.8507389721926302
+  saturation: 0.07906829100102186
+  rhythmicContrast: 0.6098909913562238
+purpose: []
